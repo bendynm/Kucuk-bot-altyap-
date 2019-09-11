@@ -1,0 +1,5 @@
+{
+  "prefix": "LST!",
+  "sahip": "542009610253631523",
+  "token": "NTk1OTkzMjM5Mjg3MjM0NTcw.XR3uYw._musnFne3olBuxEdqx3MhfRVU7Q"
+}
